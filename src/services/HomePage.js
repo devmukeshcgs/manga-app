@@ -1,6 +1,7 @@
 import React from 'react'
 import { useQuery, useQueryClient } from 'react-query'
 import axios from 'axios'
+import CoverPage from './CoverPage'
 
 const fetchData = async () => {
     return await axios.get('https://api.mangadex.org/manga')
@@ -25,12 +26,14 @@ export const HomePage = () => {
             {status === 'loading' && <div>Loading data</div>}
             {status === 'error' && <div>Error fetching data</div>}
             {status === 'success' && (
-                <div className="bg-white py-24 sm:py-32">
+                <div className="bg-white">
                     <div className="mx-auto max-w-7xl px-6 lg:px-8">
-                        <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+                        <div className="mx-auto mt-0 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16  pt-4 sm:mt-4 sm:pt-8 lg:mx-0 lg:max-w-none lg:grid-cols-4">
                             {data.data.map((manga) => (
-                                <div key={manga.id}>
+                                <a href='' key={manga.id}>
                                     {/* <img className="rounded-lg" src={img} alt={imgAlt} /> */}
+                                    <CoverPage mangaid={manga.id} />
+
                                     <div className="mt-4">
                                         <div className="text-xs font-bold text-sky-500">
                                             {manga.attributes.status == "completed" ? (<span class="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full ">{manga.attributes.status}</span>
@@ -48,7 +51,7 @@ export const HomePage = () => {
                                                 <span className="bg-blue-100 text-blue-500 text-xs mb-2 font-medium me-2 px-2.5 py-1 rounded-sm">{tag.attributes?.name?.en}</span>))}
                                         </div>
                                     </div>
-                                </div>
+                                </a>
                             ))}
                         </div>
                     </div>
