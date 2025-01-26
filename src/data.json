@@ -1,0 +1,387 @@
+{
+    "id": "cace0b4c-6696-4d08-ae26-6c8be207ef36",
+    "type": "manga",
+    "attributes": {
+        "title": {
+            "en": "I Am Sukeban"
+        },
+        "altTitles": [
+            {
+                "en": "I'm Sukeban"
+            },
+            {
+                "en": "Sukeban Boy"
+            },
+            {
+                "ja": "おいら女蛮"
+            },
+            {
+                "ja-ro": "Oira Sukeban"
+            },
+            {
+                "en": "Delinquent in Drag"
+            }
+        ],
+        "description": {
+            "en": "His family name is Suke and his given name is Banji, but he's known as Sukeban. Any town the Suke clan settles in just can't contain the violent nature of this family, forcing them to move time and time again. Because of his name, Banji ends up transferring to Amazon School as a female student! However, this situation coupled with Sukeban's rebellious nature undoubtedly will result in mayhem littered with maddening jokes and lewdity.\n\nThe manga has been adapted into two live-action films and an OVA."
+        },
+        "isLocked": false,
+        "links": {
+            "al": "38717",
+            "ap": "delinquent-in-drag",
+            "mu": "v24r96q",
+            "ebj": "https://ebookjapan.yahoo.co.jp/books/101683/A000004117/",
+            "mal": "8717"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "7",
+        "lastChapter": "25",
+        "publicationDemographic": "shounen",
+        "status": "completed",
+        "year": 1974,
+        "contentRating": "suggestive",
+        "tags": [
+            {
+                "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Loli"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Monsters"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Action"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Romance"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Ninja"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Comedy"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Incest"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Crime"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Sports"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Martial Arts"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Office Workers"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Sexual Violence"
+                    },
+                    "description": {},
+                    "group": "content",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Crossdressing"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Harem"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Gore"
+                    },
+                    "description": {},
+                    "group": "content",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Drama"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "School Life"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Fantasy"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Delinquents"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Shota"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Police"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Slice of Life"
+                    },
+                    "description": {},
+                    "group": "genre",
+                    "version": 1
+                },
+                "relationships": []
+            },
+            {
+                "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+                "type": "tag",
+                "attributes": {
+                    "name": {
+                        "en": "Supernatural"
+                    },
+                    "description": {},
+                    "group": "theme",
+                    "version": 1
+                },
+                "relationships": []
+            }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2021-03-14T01:15:08+00:00",
+        "updatedAt": "2025-01-18T01:03:22+00:00",
+        "version": 31,
+        "availableTranslatedLanguages": [
+            "en"
+        ],
+        "latestUploadedChapter": "0598c4d1-df03-47b5-89bb-9e38a3befec0"
+    },
+    "relationships": [
+        {
+            "id": "1a76535a-b389-4e42-9130-a71d0ec94611",
+            "type": "author"
+        },
+        {
+            "id": "1a76535a-b389-4e42-9130-a71d0ec94611",
+            "type": "artist"
+        },
+        {
+            "id": "cb94f9d0-af59-4e1e-b134-80a291b91ae7",
+            "type": "artist"
+        },
+        {
+            "id": "dc0ac836-8e0d-4332-af29-2b2891266ce0",
+            "type": "cover_art"
+        },
+        {
+            "id": "4393fd4e-d646-4bab-9c95-786168ccb618",
+            "type": "manga",
+            "related": "shared_universe"
+        },
+        {
+            "id": "65efd7e6-cdd1-4fba-a79e-32134b2cef53",
+            "type": "manga",
+            "related": "shared_universe"
+        },
+        {
+            "id": "a53da0db-237e-499d-8ebe-bb99abb0f3b4",
+            "type": "manga",
+            "related": "shared_universe"
+        }
+    ]
+}
