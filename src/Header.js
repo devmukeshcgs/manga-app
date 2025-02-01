@@ -7,8 +7,6 @@ const navigation = [
     { name: 'Calendar', href: '#', current: false },
     { name: 'Cover', href: '/cover', current: false },
 ]
-console.log(navigation);
-
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ')
 }
