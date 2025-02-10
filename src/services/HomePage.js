@@ -20,6 +20,7 @@ export const HomePage = () => {
     )
     // const { status, data, error, isFetching } = usePosts()
     console.log(data);
+    console.log(data);
 
     return (
         <div>
@@ -32,7 +33,7 @@ export const HomePage = () => {
                             {data.data.map((manga) => (
                                 <a href='' key={manga.id}>
                                     {/* <img className="rounded-lg" src={img} alt={imgAlt} /> */}
-                                    <CoverPage mangaid={manga.id} />
+                                    {/* <CoverPage mangaid={manga.id} /> */}
 
                                     <div className="mt-4">
                                         <div className="text-xs font-bold text-sky-500">
